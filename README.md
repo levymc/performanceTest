@@ -19,6 +19,8 @@ pip install locust
 locust -V
 ```
 
+## Configurar as informações necessárias para o teste (header, cookies...)
+
 ## Inicialização do Projeto de Teste de Performance
 
 ```bash
